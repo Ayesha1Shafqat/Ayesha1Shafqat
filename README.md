@@ -1,6 +1,7 @@
-#Hi 👋, I'm Ayesha Shafqat
+**Hi 👋, I'm Ayesha Shafqat**
+
 # 💫 About Me:
-I’m Ayesha, a Web & Mobile Developer with hands-on experience in HTML, CSS, JavaScript, PHP, MySQL, and Android (Java/XML).<br><br>I focus on writing clean, maintainable code and building practical, user-focused applications. Actively seeking junior developer roles or internships where I can grow, learn, and contribute effectively.
+I’m Ayesha, a Web & Mobile Developer with hands-on experience in HTML, CSS, JavaScript, PHP, MySQL, and Android (Java/XML).<br><br>I focus on writing clean, maintainable code and building practical, user-focused applications. Actively seeking junior developer roles or internships where I can grow, learn, and contribute effectively.💬 Ask me about Mern Stack, wordpress, and Mobile development.
 
 
 ## 🌐 Socials:
